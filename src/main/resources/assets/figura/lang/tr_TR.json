@@ -1,0 +1,188 @@
+{
+  "figura": "Figura",
+
+
+  "figura.trust.blocked": "Engelli",
+  "figura.trust.untrusted": "Güvenilmeyen",
+  "figura.trust.trusted": "Güvenilir",
+  "figura.trust.friend": "Arkadaş",
+  "figura.trust.local": "Yerel",
+
+  "figura.trust.maxinitinstructions": "Mak. Başlangıç Talimatları",
+  "figura.trust.maxtickinstructions": "Mak. Tik Talimatlatı",
+  "figura.trust.maxrenderinstructions": "Mak. Görüntüleme Talimatları",
+  "figura.trust.maxcomplexity": "Mak. Karmaşıklık",
+  "figura.trust.allowvanillaedit": "Vanilla Avatar Değişiklikleri",
+  "figura.trust.allownameplateedit": "İsim Levhası/Sohbet İsmi Değişiklikleri",
+  "figura.trust.allowoffscreenrendering": "Ekrandışı Görüntüleme",
+  "figura.trust.allowcustomrenderlayers": "Özel Görüntüleme Katmanları",
+  "figura.trust.allowcustomsounds": "Özel Sesler",
+  "figura.trust.maxparticles": "Saniye Başı Maksimum Parçacıklar",
+  "figura.trust.maxsfx": "Saniye Başı Maksimum Sesler",
+
+
+  "figura.gui.trustmenu.title": "Figura Güvenilenler Menüsü",
+  "figura.gui.config.title": "Figura Ayar Menüsü",
+  "figura.gui.menu.title": "Figura Menüsü",
+  "figura.gui.keybinds.title": "Figura Betik Tuş Atama Menüsü",
+
+  "figura.gui.dropconfirm": "Belirtilen modelleri Figura'ya eklemek istiyor musun?",
+  "figura.gui.panic.warning": "Figura'nın kısıtlı kullanımı! // Avatar görüntüleme devre dışı!   *panik*",
+
+  "figura.gui.newver.tooltip": "Yeni Figura sürümü tespit edildi",
+  "figura.gui.newver.tooltip2": "Yeni güncellemeler için Discord sunucusuna göz atın!",
+
+  "figura.gui.button.trustmenu": "Güvenilenler Menüsü",
+  "figura.gui.button.configmenu": "Ayarlar",
+  "figura.gui.button.back": "Geri",
+  "figura.gui.button.deleteavatar": "Avatarı Temizle",
+  "figura.gui.button.clearall": "TÜM Avatarları Temizle",
+  "figura.gui.button.help": "Yardım",
+  "figura.gui.button.openfolder": "Modeller Klasörünü Aç",
+  "figura.gui.button.openavatarfolder": "Avatar Klasörünü Aç",
+  "figura.gui.button.resetallperm": "TÜM İzinleri Sıfırla",
+  "figura.gui.button.resetperm": "İzin Sıfırla",
+  "figura.gui.button.reloadavatar": "Avatarı yeniden yükle",
+  "figura.gui.button.search": "Ara...",
+
+  "figura.gui.button.upload.tooltip": "Avatarını yüklemek ve çoklu oyuncuda görmek için tıkla",
+  "figura.gui.button.uploadlocal.tooltip": "Avatar zaten yüklü!",
+  "figura.gui.button.uploadlocaltwo.tooltip": "Yüklemeden önce bir Yerel Avatar seçmelisin!",
+  "figura.gui.button.noconnection.tooltip": "Avatar yüklenilemiyor veya silinemiyor!",
+  "figura.gui.button.noconnectiontwo.tooltip": "Arka uca bağlı değil!",
+  "figura.gui.button.reloadavatar.tooltip": "Avatarını yerel olarak kaldırmak ve yeniden indirmek için tıkla",
+  "figura.gui.button.deleteavatar.tooltip": "SOL SHIFT'e basılı tut ve ÇEVRİMİÇİ AVATARINI TEMİZLEMEK için tıkla",
+  "figura.gui.button.deleteavatartwo.tooltip": "Bunu yapmak, avatarınızı diğer herkes için de temizleyecektir",
+  "figura.gui.button.resetperm.tooltip": "SOL SHIFT'e basılı tut ve bu kullanıcıdaki seçili izni sıfırlamak için tıkla",
+  "figura.gui.button.cantreset.tooltip": "Bir ön ayar sıfırlanamıyor",
+  "figura.gui.button.resetallperm.tooltip": "SOL SHIFT'e basılı tut ve bu kullanıcıdaki izinleri sıfırlamak için tıkla",
+  "figura.gui.button.clearcache.tooltip": "SOL SHIFT'e basılı tut ve tüm yüklü avatar verilerini temizlemek için tıkla",
+  "figura.gui.button.keybinds.tooltip": "Mevcut Betik Tuş Atamaları",
+  "figura.gui.button.openfolder.tooltip": "SOL SHIFT'e basılı tut ve seçili avatar klasörünü aç",
+
+  "figura.gui.button.status.tooltip": "yok | bulunamadı",
+  "figura.gui.button.statustwo.tooltip": "100kb+ | hata | bağlı değil",
+  "figura.gui.button.statusthree.tooltip": "75kb+ | bağlanıyor",
+  "figura.gui.button.statusfour.tooltip": "tamam | bağlı",
+
+  "figura.gui.status.model": "Model",
+  "figura.gui.status.texture": "Doku",
+  "figura.gui.status.script": "Betik",
+  "figura.gui.status.backend": "Arka Uç",
+
+  "figura.gui.status.complexity": "Karmaşıklık:",
+  "figura.gui.status.filesize": "Boyut (kb):",
+  "figura.gui.status.name": "İsim:",
+
+
+  "figura.config.nametag": "İsim Etiketi",
+  "figura.config.misc": "Çeşitli",
+  "figura.config.actionwheel": "Eylem Çarkı",
+  "figura.config.dev": "Geliştirici Ayarları",
+
+  "figura.config.preview_nameplate": "İsim Etiketi Önizlemesini Göster",
+  "figura.config.preview_nameplate.tooltip": "Model önizleme ekranının üstünde isim etiketini gösterir",
+
+  "figura.config.nameplate_modifications": "Oyuncu İsim Etiketi Kişiselleştirmeleri",
+  "figura.config.nameplate_modifications.tooltip": "Oyuncuların isimlerinin kişiselleştirilmesine izin verir",
+
+  "figura.config.chat_modifications": "Sohbet Kişiselleştirmeleri",
+  "figura.config.chat_modifications.tooltip": "Sohbetteki oyuncu isimlerinin kişiselleştirilmesine izin verir",
+
+  "figura.config.playerlist_modifications": "Oyuncu Listesi Kişiselleştirmeleri",
+  "figura.config.playerlist_modifications.tooltip": "Oyuncu listesindeki oyuncu isimlerinin kişiselleştirilmesine izin verir",
+
+  "figura.config.badges": "Rozetleri Göster",
+  "figura.config.badges.tooltip": "Avatarlı insanlar için isimlerinin yanında rozet göster",
+
+  "figura.config.badge_as_icons": "Simge Olarak İsim Etiketi İşareti",
+  "figura.config.badge_as_icons.tooltip": "İsim etiketinin üstünde %d simgesi olarak △ işaretini göster",
+
+  "figura.config.figura_button_location": "Figura Tuş Konumu",
+  "figura.config.figura_button_location.tooltip": "Figura ayarlar tuşunun olması gerektiği yer",
+  "figura.config.figura_button_location.1": "Sol Üst",
+  "figura.config.figura_button_location.2": "Sağ Üst",
+  "figura.config.figura_button_location.3": "Sol Aşağı",
+  "figura.config.figura_button_location.4": "Sağ Aşağı",
+  "figura.config.figura_button_location.5": "Simge",
+
+  "figura.config.script_log_location": "Betik Sistem Kaydı",
+  "figura.config.script_log_location.tooltip": "Betik hata ayıklama kaydının çıktı konumu",
+  "figura.config.script_log_location.1": "Konsol/Sohbet",
+  "figura.config.script_log_location.2": "Sohbet",
+  "figura.config.script_log_location.3": "Konsol",
+
+  "figura.config.player_popup_button": "Oyuncu Popup Tuşu",
+  "figura.config.player_popup_button.tooltip": "Oyuncu Popup için Tuş Ataması",
+
+  "figura.config.accent_color": "Arayüz Aksan Rengi",
+  "figura.config.accent_color.tooltip": "Arayüzün kullandığı aksan rengini değiştirir.",
+
+  "figura.config.release_channel": "Sürüm Güncelleme Kanalı",
+  "figura.config.release_channel.tooltip": "Yeni sürümleri almak için değiştirilmiş güncelleme kanalı",
+  "figura.config.release_channel.1": "Ön Sürüm",
+  "figura.config.release_channel.2": "Tam Sürüm",
+  "figura.config.release_channel.3": "Güncelleme Yok",
+
+  "figura.config.action_wheel_button": "Eylem Çarkı Tuşu",
+  "figura.config.action_wheel_button.tooltip": "Eylem Çarkı için tuş ataması",
+
+  "figura.config.action_wheel_title_pos": "Eylem Çarkı Başlığı konumu",
+  "figura.config.action_wheel_title_pos.tooltip": "Eylem Çarkı'ndaki başlığın konumu.",
+  "figura.config.action_wheel_title_pos.1": "Fare",
+  "figura.config.action_wheel_title_pos.2": "Üst",
+  "figura.config.action_wheel_title_pos.3": "Alt",
+  "figura.config.action_wheel_title_pos.4": "Merkez",
+
+  "figura.config.use_local_server": "Yerel Sunucu Kullan",
+  "figura.config.use_local_server.tooltip": "Çevrimiçi modeller için yerel sunucu veya ana çevrimiçi sunucu arasında geçiş yapar",
+
+  "figura.config.format_script_on_upload": "Betiği Biçimlendir",
+  "figura.config.format_script_on_upload.tooltip": "Avatarını yüklerken betiği biçimlendir",
+
+  "figura.config.log_others_script": "Diğer Oyuncuların Betiklerini Sisteme Kaydet",
+  "figura.config.log_others_script.tooltip": "Diğer oyunculardan hata ayıklama sistem kayıtlarını göster",
+
+  "figura.config.render_debug_parts_pivot": "Parçaların Eksenlerini Görüntüle",
+  "figura.config.render_debug_parts_pivot.tooltip": "Hitbox hata ayıklama görüntülemesi etkinken %d ve %d eksenleri görüntüle",
+  "figura.config.render_debug_parts_pivot.tooltip.cubes": "küplerden",
+  "figura.config.render_debug_parts_pivot.tooltip.groups": "gruplardan",
+
+  "figura.config.render_own_nameplate": "Kendi İsim Etiketini Görüntüle",
+  "figura.config.render_own_nameplate.tooltip": "Oyunun içinde kendine ait isim etiketini görüntüler",
+
+  "figura.config.model_folder_path": "Figura Dizini",
+  "figura.config.model_folder_path.tooltip": "Tüm Figura dosyalarının (güvenilirler/avatarlar/önbellek) bulunması gereken dizin yolu. Minecraft dizininizi kullanmak için boş bırakın.",
+
+  "figura.config.panic_button": "Avatar Görüntülemesini Aç/Kapa",
+  "figura.config.panic_button.tooltip": "Bu tuş ataması herkes için avatarını açıp/kapatır! Dikkatli ol!",
+
+  "figura.config.entity_batching_fix": "Varlık Yığınlama Düzeltimi",
+  "figura.config.entity_batching_fix.tooltip": "Iris'deki ve diğer modlardaki varlık yığınlama optimizasyonunu düzeltir",
+
+
+  "figura.toast.upload.success.title": "Avatar Yüklendi!",
+  "figura.toast.upload.error.title": "Avatar Yüklemesi Başarısız!",
+
+  "figura.toast.upload.error.many": "Çok fazla avatarın var!!",
+  "figura.toast.upload.error.empty": "Avatar boş!!",
+  "figura.toast.upload.error.space": "Sunucuda yeterince alan yok!!",
+
+  "figura.toast.avatar.reload.title": "Avatar Yeniden Yüklendi!",
+  "figura.toast.avatar.trust.title": "artık: ",
+
+
+  "figura.actionwheel.warning": "Betik bulunamadı",
+  "figura.actionwheel.warninginfo": "Eylem Çarkı'ndaki içerikler avatar betiğine göre ayarlanır",
+  "figura.actionwheel.nofunction": "ilişkisiz fonksiyon!",
+
+
+  "figura.playerpopup.cancel": "İptal",
+  "figura.playerpopup.reload": "Avatarı Yeniden Yükle",
+  "figura.playerpopup.increasetrust": "Güvenilirliği Arttır",
+  "figura.playerpopup.decreasetrust": "Güvenilirliği Düşür",
+
+
+  "figura.models.unselect": "-seçilmemiş-",
+  "figura.models.loading": "Yükleniyor..."
+}
